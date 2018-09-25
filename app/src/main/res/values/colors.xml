@@ -1,0 +1,14 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="background">#FFDAD8D4</color>
+    <color name="title_font">#ff7519b4</color>
+    <color name="plus_one">#ff17b410</color>
+    <color name="plus_two">#FF3567B4</color>
+    <color name="del_btn">#ffff4f4e</color>
+    <color name="soft_red">#FFFF7E75</color>
+    <color name="save_btn">#fff6ff6c</color>
+    <color name="reply_btn">#ff59ff64</color>
+    <color name="start_btn">#ff76d5ff</color>
+
+</resources>
